@@ -20,7 +20,8 @@
 
 [release](https://repo.xposed.info/module/com.app.legend.dms)
 
-[提取码: 1234](https://pan.baidu.com/s/1aAZEAWfjQp1LfSmZVzzx5w)
+[百度网盘提取码: 1234](https://pan.baidu.com/s/1aAZEAWfjQp1LfSmZVzzx5w)
+
 
 
 # 更新记录
