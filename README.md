@@ -1,3 +1,4 @@
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 ## 一个不幸的消息：
  
 ### 原作者legend（真名：祝远辉）（酷安@可爱的人一直都是你）于2020年2月14日下午14点因车祸抢救无效去世，此模块项目永久停更，本项目只作为原项目的备份，不会对此模块软件做出任何修改，如修改的话，本人会新开一个项目作为此软件的新维护者来继续维护。
