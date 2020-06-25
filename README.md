@@ -4,8 +4,8 @@
  
 ***
 ### 下方为原作者描述
+### ~~[百度网盘提取码: 1234](https://pan.baidu.com/s/1aAZEAWfjQp1LfSmZVzzx5w)~~ 已失效，待补档
 ***
- 
 # 声明
 
 ## 强调一下，本模块并没有看H漫的操作，本模块仅仅用于显示大妈之家那些因版权而屏蔽掉的漫画，如果你想看H漫而使用本模块，不好意思你走错地方了。本模块谢绝智友论坛"一个人的冬季"搬运，请你就此打住，不要再玷污我和我的模块！
@@ -21,8 +21,6 @@
 # 下载地址
 
 [release](https://repo.xposed.info/module/com.app.legend.dms)
-
-[百度网盘提取码: 1234](https://pan.baidu.com/s/1aAZEAWfjQp1LfSmZVzzx5w)
 
 
 
